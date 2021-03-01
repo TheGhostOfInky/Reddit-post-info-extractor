@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 import json, sys
-finaldata = open ("finaldata.txt","a")
+finaldata = open ("finaldata.txt","a", encoding="utf-8")
 fname = sys.argv[1]
 with open(fname,'r', encoding="utf-8") as f:
     data = json.load(f)
