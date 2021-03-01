@@ -4,7 +4,7 @@ These scripts generate a file list of multiple reddit posts' Author, Title, Link
 ## Preparation:
 * Install the latest version of python 3
 * Enable PowerShell script execution (Run "set-executionpolicy remotesigned" as an administrator)
-* Make a text file with the links to all the reddi posts you want to include, 1 post per line with no separator character
+* Make a text file with the links to all the Reddit posts you want to include, 1 post per line with no separator character
 ## Use
 * Launch a command prompt in the folder you have the scripts at
 * Type "split.py file.txt" where file.txt is the name of the text file containing the links
