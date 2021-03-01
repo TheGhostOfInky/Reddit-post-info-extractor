@@ -12,4 +12,4 @@ These scripts generate a file with a list of multiple reddit posts' Author, Titl
 * Type "powershell"
 * Type ".\downloader.ps1"
 * Type ".\run.bat"
-* Open the "finaldata.txt" file in a text editor, copy it and paste it in excel or another program, selectiong the text import wizzard to split collumns by semicolons.
+* Open the "finaldata.txt" file in a text editor, copy its content and paste it in excel or another program, selectiong the text import wizzard to split collumns by semicolons.
