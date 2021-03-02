@@ -1,5 +1,5 @@
 # Reddit-post-info-extractor
-These scripts generate a file list of multiple reddit posts' Author, Title, Link and Upvote count that can be easily imported into excel and other spreadsheets
+These scripts generate a file with a list of multiple reddit posts' Author, Title, Link and Upvote count that can be easily imported into excel and other spreadsheets
 # Usage
 ## Preparation:
 * Install the latest version of python 3
@@ -12,4 +12,4 @@ These scripts generate a file list of multiple reddit posts' Author, Title, Link
 * Type "powershell"
 * Type ".\downloader.ps1"
 * Type ".\run.bat"
-* Open the "finaldata.txt" file in a text editor, copy it and paste it in excel or another program, selectiong the text import wizzard to split collumns by semicolons.
+* Open the "finaldata.txt" file in a text editor, copy its content and paste it in excel or another program, selectiong the text import wizzard to split collumns by semicolons.
