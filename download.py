@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  6 02:22:23 2020
-
-@author: TheGhostOfInky
-"""
 import sys
 fname = sys.argv[1]
 links = open (fname,"r")
